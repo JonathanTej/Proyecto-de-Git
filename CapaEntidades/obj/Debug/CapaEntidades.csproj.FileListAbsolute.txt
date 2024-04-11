@@ -1,0 +1,8 @@
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\bin\Debug\System.Composition.AttributedModel.dll
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\obj\Debug\CapaEnti.0B779BCD.Up2Date
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\CapaEntidades\obj\Debug\CapaEntidades.pdb
