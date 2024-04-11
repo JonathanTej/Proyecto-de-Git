@@ -1,0 +1,10 @@
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\bin\Debug\formulario_usuario.exe.config
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\bin\Debug\formulario_usuario.exe
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\bin\Debug\formulario_usuario.pdb
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.csproj.AssemblyReference.cache
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.Form1.resources
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.Properties.Resources.resources
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.csproj.GenerateResource.cache
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.csproj.CoreCompileInputs.cache
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.exe
+C:\Users\Alicia\Desktop\ciclo3\Programacion\semana 10\formulario_usuario\obj\Debug\formulario_usuario.pdb
